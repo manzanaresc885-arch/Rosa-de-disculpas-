@@ -1,0 +1,8 @@
+{
+  "name": "Jardín de Amor para Mari 💗",
+  "description": "Un jardín interactivo de flores eternas, rosas floreciendo y cartas de amor dedicadas a Mari 💗 con música romántica, una rosa azul cósmica y mensajes listos para compartir por WhatsApp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
